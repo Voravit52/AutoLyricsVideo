@@ -2,7 +2,7 @@
 # Lyric Video Generator
 
 ### **ภาพรวม**
-**"เราใช้PaxSenix API(https://api.paxsenix.biz.id/docs/)"**
+**"เราใช้[PaxSenix API](https://api.paxsenix.biz.id/docs/)"**
 
 เพื่อดึงเนื้อเพลง Canvasและเพลง โดยใช้TrackIDจากSpotify
 
@@ -42,6 +42,9 @@ pip install Pillow
    ```bash
    python autolyrics.py
    ```
+   ![ตัวอย่าง3](Screenshot_20241210_170337_Chrome.jpg)
 
 3. **ผลลัพธ์**  
    สคริปต์จะสร้างวิดีโอเนื้อเพลงชื่อ `output_video.mp4` ในไดเรกทอรีปัจจุบัน
+   
+   ![ตัวอย่าง2](VideoCapture_20241211-141818.jpg)
