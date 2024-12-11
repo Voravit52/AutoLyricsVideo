@@ -2,7 +2,7 @@
 # Lyric Video Generator
 
 ### **ภาพรวม**
-**"เราใช้PaxSenix AIP(https://api.paxsenix.biz.id/docs/)"**
+**"เราใช้PaxSenix API(https://api.paxsenix.biz.id/docs/)"**
 สคริปต์นี้สร้างวิดีโอเนื้อเพลงโดย:
 1. **เนื้อเพลง**: ดึงจาก Spotify
 2. **ไฟล์เพลง**: ดาวน์โหลดจาก Spotify
